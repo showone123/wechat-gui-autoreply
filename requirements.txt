@@ -1,0 +1,6 @@
+# Runtime deps for the listener (Windows only).
+# The GUI automation layer comes from the windows-mcp UI Automation bindings.
+windows-mcp
+Pillow
+numpy
+pywin32
