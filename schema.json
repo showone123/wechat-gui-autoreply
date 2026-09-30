@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "reply_text": {"type": "string"},
+    "sticker_suggestion": {"type": "string"}
+  },
+  "required": ["reply_text", "sticker_suggestion"],
+  "additionalProperties": false
+}
