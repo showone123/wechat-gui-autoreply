@@ -1,0 +1,18 @@
+# personal config & style - never commit your own
+config.json
+style.md
+
+# your avatars are biometric-ish; keep them local
+assets/
+
+# runtime state and drafts
+state/
+bridge/
+latest-draft.md
+sent-log.jsonl
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
